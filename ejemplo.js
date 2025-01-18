@@ -6,7 +6,10 @@ class Persona {
     }
 
     profesion() {
+
         console.log("Soy master")
+
+
     }
 
     presentarse() {
@@ -16,6 +19,10 @@ class Persona {
     cumplirAños() {
         this.edad++;
         console.log(`Ahora tengo ${this.edad} años.`);
+    }
+
+    dormir() {
+        console.log("tengo sueño")
     }
 
 }
