@@ -5,6 +5,10 @@ class Persona {
         this.edad = edad;
     }
 
+    profesion() {
+        console.log("Maeta")
+    }
+
     presentarse() {
         console.log(`Hola, soy ${this.nombre} y tengo ${this.edad} años.`);
     }
