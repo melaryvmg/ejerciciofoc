@@ -14,6 +14,10 @@ class Persona {
         console.log(`Ahora tengo ${this.edad} años.`);
     }
 
+    dormir() {
+        console.log("tengo sueño")
+    }
+
 }
 
 console.log("Hola mundo")
