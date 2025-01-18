@@ -6,7 +6,7 @@ class Persona {
     }
 
     profesion() {
-        console.log("Maeta")
+        console.log("SOY romero")
     }
 
     presentarse() {
